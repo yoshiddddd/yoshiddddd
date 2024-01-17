@@ -9,9 +9,9 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,c,python,cpp,rb," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python,cpp,ruby," /> <br /><br />
 
 
 ## DB and Dev Tools etc
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,aws,figma" /> <br /><br />
+<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux,aws,figma,discord" /> <br /><br />
