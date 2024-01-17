@@ -9,11 +9,8 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=html,css,js,typescript,python,php," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,python,cpp," /> <br /><br />
 
-## Frameworks and Library
-
-<img src="https://skillicons.dev/icons?i=react,next,vue,nuxt,nodejs,express,flask,fastapi,laravel,wordpress" /> <br /><br />
 
 ## DB and Dev Tools etc
 
