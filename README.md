@@ -1,6 +1,6 @@
 # About Me
 
-1. I'm a web frontend and backend developer from Japan
+1.　I belong to 42 Tokyo. It mainly deals with the C language.
 
 2. My favorites are C
 
