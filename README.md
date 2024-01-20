@@ -1,6 +1,6 @@
 # About Me
 
-1.　I belong to 42 Tokyo. It mainly deals with the C language.
+1.i am a software engineering student at 42tokyo . 
 
 2. My favorites are C
 
@@ -9,7 +9,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,js,python,cpp,ruby," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,js,python,ruby," /> <br /><br />
 
 
 ## DB and Dev Tools etc
