@@ -1,6 +1,6 @@
 # About Me
 
-1.i am a software engineering student at 42tokyo . 
+1. I am a software engineering student at 42tokyo 
 
 2. My favorites are C
 
