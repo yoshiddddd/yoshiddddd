@@ -2,7 +2,7 @@
 
 1. I am a software engineering student at 42tokyo 
 
-2. My favorites are C
+2. My favorites language is C
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=yoshiddddd&show_icons=true&locale=en&layout=compact)
