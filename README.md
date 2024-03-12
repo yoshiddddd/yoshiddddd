@@ -9,7 +9,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,python,ruby," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,python,ruby,ts" /> <br /><br />
 
 
 ## DB and Dev Tools etc
