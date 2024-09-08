@@ -5,7 +5,7 @@
 
 ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=c,python,ts,js,React," /> <br /><br />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,ts,js,react,vue,go" /> <br /><br />
 
 
 ## DB and Dev Tools etc
